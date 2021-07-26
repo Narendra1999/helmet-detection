@@ -1,0 +1,4 @@
+*.png
+dataset/
+face_detector/
+venv/
